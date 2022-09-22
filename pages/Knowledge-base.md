@@ -1,0 +1,1053 @@
+- # Current KB Entries
+	- ## Web Applications
+	  collapsed:: true
+		- J2EE Misconfiguration Data Transmission Without Encryption
+		- J2EE Misconfiguration Insufficient Session ID Length
+		- J2EE Misconfiguration Missing Custom Error Page
+		- J2EE Misconfiguration Entity Bean Declared Remote
+		- J2EE Misconfiguration Weak Access Permissions for EJB Methods
+		- ASP.NET Misconfiguration Creating Debug Binary
+		- ASP.NET Misconfiguration Missing Custom Error Page
+		- ASP.NET Misconfiguration Password in Configuration File
+		- Compiler Removal of Code to Clear Buffers
+		- External Control of System or Configuration Setting
+		- Improper Input Validation
+		- Improper Limitation of a Pathname to a Restricted Directory Path Traversal
+		- Relative Path Traversal
+		- Path Traversal filedir example 1
+		- Path Traversal filedir example 2
+		- Path Traversal filedir example 3
+		- Path Traversal filedir example 4
+		- Path Traversal filedir example 5
+		- Path Traversal filedir example 6
+		- Path Traversal filedir example 7
+		- Path Traversal filedir example 8
+		- Path Traversal filedir example 9
+		- Path Traversal filedir example 10
+		- Path Traversal
+		- Path Traversal dir
+		- Absolute Path Traversal
+		- Path Traversal absolute pathname here
+		- Path Traversal absolutepathnamehere
+		- Path Traversal C dirname
+		- Path Traversal UNCsharename Windows UNC Share
+		- Improper Resolution of Path Equivalence
+		- Path Equivalence filename. Trailing Dot
+		- Path Equivalence filename Multiple Trailing Dot
+		- Path Equivalence file.name Internal Dot
+		- Path Equivalence file name Multiple Internal Dot
+		- Path Equivalence filename Trailing Space
+		- Path Equivalence filename Leading Space
+		- Path Equivalence file name Internal Whitespace
+		- Path Equivalence filename Trailing Slash
+		- Path Equivalence multiple leading slash
+		- Path Equivalence multiple internal slash
+		- Path Equivalence multiple trailing slash
+		- Path Equivalence multipleinternalbackslash
+		- Path Equivalence filedir Trailing Backslash
+		- Path Equivalence Single Dot Directory
+		- Path Equivalence filedir Wildcard
+		- Path Equivalence fakedir realdir filename
+		- Path Equivalence Windows 8 3 Filename
+		- Improper Link Resolution Before File Access Link Following
+		- UNIX Symbolic Link Symlink Following
+		- UNIX Hard Link
+		- Windows Shortcut Following .LNK
+		- Windows Hard Link
+		- Improper Handling of File Names that Identify Virtual Resources
+		- Improper Handling of Windows Device Names
+		- Improper Handling of Windows DATA Alternate Data Stream
+		- Improper Handling of Apple HFS Alternate Data Stream Path
+		- External Control of File Name or Path
+		- Improper Neutralization of Special Elements in Output Used by a Downstream Component Injection
+		- Failure to Sanitize Special Elements into a Different Plane Special Element Injection
+		- Improper Neutralization of Equivalent Special Elements
+		- Improper Neutralization of Special Elements used in a Command Command Injection
+		- Improper Neutralization of Special Elements used in an OS Command OS Command Injection
+		- Improper Neutralization of Input During Web Page Generation Cross site Scripting
+		- Improper Neutralization of Script Related HTML Tags in a Web Page Basic XSS
+		- Improper Neutralization of Script in an Error Message Web Page
+		- Improper Neutralization of Script in Attributes of IMG Tags in a Web Page
+		- Improper Neutralization of Script in Attributes in a Web Page
+		- Improper Neutralization of Encoded URI Schemes in a Web Page
+		- Doubled Character XSS Manipulations
+		- Improper Neutralization of Invalid Characters in Identifiers in Web Pages
+		- Improper Neutralization of Alternate XSS Syntax
+		- Improper Neutralization of Argument Delimiters in a Command Argument Injection
+		- Improper Neutralization of Special Elements used in an SQL Command SQL Injection
+		- Improper Neutralization of Special Elements used in an LDAP Query LDAP Injection
+		- XML Injection aka Blind XPath Injection
+		- Improper Neutralization of CRLF Sequences CRLF Injection
+		- Improper Control of Generation of Code Code Injection
+		- Improper Neutralization of Directives in Dynamically Evaluated Code Eval Injection
+		- Improper Neutralization of Directives in Statically Saved Code Static Code Injection
+		- Improper Neutralization of Server Side Includes SSI Within a Web Page
+		- Improper Control of Filename for Include Require Statement in PHP Program PHP Remote File Inclusion
+		- Improper Control of Resource Identifiers Resource Injection
+		- Struts Duplicate Validation Forms
+		- Struts Incomplete validate Method Definition
+		- Struts Form Bean Does Not Extend Validation Class
+		- Struts Form Field Without Validator
+		- Struts Plug in Framework not in Use
+		- Struts Unused Validation Form
+		- Struts Unvalidated Action Form
+		- Struts Validator Turned Off
+		- Struts Validator Without Form Field
+		- Direct Use of Unsafe JNI
+		- Missing XML Validation
+		- Improper Neutralization of CRLF Sequences in HTTP Headers HTTP Response Splitting
+		- Process Control
+		- Misinterpretation of Input
+		- Improper Encoding or Escaping of Output
+		- Improper Output Neutralization for Logs
+		- Incorrect Access of Indexable Resource Range Error
+		- Improper Restriction of Operations within the Bounds of a Memory Buffer
+		- Buffer Copy without Checking Size of Input Classic Buffer Overflow
+		- Stack based Buffer Overflow
+		- Heap based Buffer Overflow
+		- Write what where Condition
+		- Buffer Underwrite Buffer Underflow
+		- Out of bounds Read
+		- Buffer Over read
+		- Buffer Under read
+		- Wrap around Error
+		- Improper Validation of Array Index
+		- Improper Handling of Length Parameter Inconsistency
+		- Incorrect Calculation of Buffer Size
+		- Use of Externally Controlled Format String
+		- Incorrect Calculation of Multi Byte String Length
+		- Improper Neutralization of Special Elements
+		- Improper Neutralization of Delimiters
+		- Improper Neutralization of Parameter Argument Delimiters
+		- Improper Neutralization of Value Delimiters
+		- Improper Neutralization of Record Delimiters
+		- Improper Neutralization of Line Delimiters
+		- Improper Neutralization of Section Delimiters
+		- Improper Neutralization of Expression Command Delimiters
+		- Improper Neutralization of Input Terminators
+		- Improper Neutralization of Input Leaders
+		- Improper Neutralization of Quoting Syntax
+		- Improper Neutralization of Comment Delimiters
+		- Improper Neutralization of Macro Symbols
+		- Improper Neutralization of Substitution Characters
+		- Improper Neutralization of Variable Name Delimiters
+		- Improper Neutralization of Wildcards or Matching Symbols
+		- Improper Neutralization of Whitespace
+		- Failure to Sanitize Paired Delimiters
+		- Improper Neutralization of Null Byte or NUL Character
+		- Improper Handling of Invalid Use of Special Elements
+		- Improper Neutralization of Leading Special Elements
+		- Improper Neutralization of Multiple Leading Special Elements
+		- Improper Neutralization of Trailing Special Elements
+		- Improper Neutralization of Multiple Trailing Special Elements
+		- Improper Neutralization of Internal Special Elements
+		- Improper Neutralization of Multiple Internal Special Elements
+		- Improper Handling of Missing Special Element
+		- Improper Handling of Additional Special Element
+		- Improper Handling of Inconsistent Special Elements
+		- Improper Null Termination
+		- Encoding Error
+		- Improper Handling of Alternate Encoding
+		- Double Decoding of the Same Data
+		- Improper Handling of Mixed Encoding
+		- Improper Handling of Unicode Encoding
+		- Improper Handling of URL Encoding Hex Encoding
+		- Improper Handling of Case Sensitivity
+		- Incorrect Behavior Order Early Validation
+		- Incorrect Behavior Order Validate Before Canonicalize
+		- Incorrect Behavior Order Validate Before Filter
+		- Collapse of Data into Unsafe Value
+		- Permissive List of Allowed Inputs
+		- Incomplete List of Disallowed Inputs
+		- Incorrect Regular Expression
+		- Overly Restrictive Regular Expression
+		- Partial String Comparison
+		- Reliance on Data Memory Layout
+		- Integer Overflow or Wraparound
+		- Integer Underflow Wrap or Wraparound
+		- Integer Coercion Error
+		- Off by one Error
+		- Unexpected Sign Extension
+		- Signed to Unsigned Conversion Error
+		- Unsigned to Signed Conversion Error
+		- Numeric Truncation Error
+		- Use of Incorrect Byte Ordering
+		- Exposure of Sensitive Information to an Unauthorized Actor
+		- Exposure of Sensitive Information Through Sent Data
+		- Exposure of Sensitive Information Through Data Queries
+		- Observable Discrepancy
+		- Observable Response Discrepancy
+		- Observable Behavioral Discrepancy
+		- Observable Internal Behavioral Discrepancy
+		- Observable Behavioral Discrepancy With Equivalent Products
+		- Observable Timing Discrepancy
+		- Generation of Error Message Containing Sensitive Information
+		- Self generated Error Message Containing Sensitive Information
+		- Externally Generated Error Message Containing Sensitive Information
+		- Improper Removal of Sensitive Information Before Storage or Transfer
+		- Exposure of Sensitive Information Due to Incompatible Policies
+		- Invocation of Process Using Visible Sensitive Information
+		- Insertion of Sensitive Information Into Debugging Code
+		- Storage of File with Sensitive Data Under Web Root
+		- Storage of File With Sensitive Data Under FTP Root
+		- Information Loss or Omission
+		- Truncation of Security relevant Information
+		- Omission of Security relevant Information
+		- Obscured Security relevant Information by Alternate Name
+		- Sensitive Information Uncleared in Resource Before Release for Reuse
+		- Improper Handling of Syntactically Invalid Structure
+		- Improper Handling of Values
+		- Improper Handling of Missing Values
+		- Improper Handling of Extra Values
+		- Improper Handling of Undefined Values
+		- Improper Handling of Parameters
+		- Failure to Handle Missing Parameter
+		- Improper Handling of Extra Parameters
+		- Improper Handling of Undefined Parameters
+		- Improper Handling of Structural Elements
+		- Improper Handling of Incomplete Structural Elements
+		- Failure to Handle Incomplete Element
+		- Improper Handling of Inconsistent Structural Elements
+		- Improper Handling of Unexpected Data Type
+		- Use of Inherently Dangerous Function
+		- Creation of chroot Jail Without Changing Working Directory
+		- Improper Clearing of Heap Memory Before Release Heap Inspection
+		- J2EE Bad Practices Direct Management of Connections
+		- J2EE Bad Practices Direct Use of Sockets
+		- Uncaught Exception
+		- Execution with Unnecessary Privileges
+		- Unchecked Return Value
+		- Incorrect Check of Function Return Value
+		- Unprotected Storage of Credentials
+		- Storing Passwords in a Recoverable Format
+		- Empty Password in Configuration File
+		- Use of Hard coded Password
+		- Password in Configuration File
+		- Weak Encoding for Password
+		- Not Using Password Aging
+		- Password Aging with Long Expiration
+		- privileges
+		- Incorrect Privilege Assignment
+		- Privilege Defined With Unsafe Actions
+		- Privilege Chaining
+		- Improper Privilege Management
+		- Privilege Context Switching Error
+		- Privilege Dropping Lowering Errors
+		- Least Privilege Violation
+		- Improper Check for Dropped Privileges
+		- Improper Handling of Insufficient Privileges
+		- Incorrect Default Permissions
+		- Insecure Inherited Permissions
+		- Insecure Preserved Inherited Permissions
+		- Incorrect Execution Assigned Permissions
+		- Improper Handling of Insufficient Permissions or Privileges
+		- Improper Preservation of Permissions
+		- Improper Ownership Management
+		- Unverified Ownership
+		- Improper Access Control
+		- Improper Authorization
+		- Incorrect User Management
+		- Improper Authentication
+		- Authentication Bypass Using an Alternate Path or Channel
+		- Authentication Bypass by Alternate Name
+		- Authentication Bypass by Spoofing
+		- Reliance on IP Address for Authentication
+		- Using Referer Field for Authentication
+		- Authentication Bypass by Capture replay
+		- Improper Certificate Validation
+		- Improper Following of a Certificates Chain of Trust
+		- Improper Validation of Certificate with Host Mismatch
+		- Improper Validation of Certificate Expiration
+		- Improper Check for Certificate Revocation
+		- Channel Accessible by Non Endpoint
+		- Reflection Attack in an Authentication Protocol
+		- Authentication Bypass by Assumed Immutable Data
+		- Incorrect Implementation of Authentication Algorithm
+		- Missing Critical Step in Authentication
+		- Authentication Bypass by Primary Weakness
+		- Missing Authentication for Critical Function
+		- Improper Restriction of Excessive Authentication Attempts
+		- Use of Single factor Authentication
+		- Use of Password System for Primary Authentication
+		- cryptpgraphic issues
+		- Missing Encryption of Sensitive Data
+		- Cleartext Storage of Sensitive Information
+		- Cleartext Storage in a File or on Disk
+		- Cleartext Storage in the Registry
+		- Cleartext Storage of Sensitive Information in a Cookie
+		- Cleartext Storage of Sensitive Information in Memory
+		- Cleartext Storage of Sensitive Information in GUI
+		- Cleartext Storage of Sensitive Information in Executable
+		- Cleartext Transmission of Sensitive Information
+		- key management errors
+		- Use of Hard coded Cryptographic Key
+		- Key Exchange without Entity Authentication
+		- Use of a Key Past its Expiration Date
+		- Missing Required Cryptographic Step
+		- Inadequate Encryption Strength
+		- Use of a Broken or Risky Cryptographic Algorithm
+		- Reversible One Way Hash
+		- Not Using a Random IV with CBC Mode
+		- Use of Insufficiently Random Values
+		- Insufficient Entropy
+		- Insufficient Entropy in PRNG
+		- Improper Handling of Insufficient Entropy in TRNG
+		- Small Space of Random Values
+		- Incorrect Usage of Seeds in Pseudo Random Number Generator PRNG
+		- Same Seed in Pseudo Random Number Generator PRNG
+		- Predictable Seed in Pseudo Random Number Generator PRNG
+		- Use of Cryptographically Weak Pseudo Random Number Generator PRNG
+		- Small Seed Space in PRNG
+		- Generation of Predictable Numbers or Identifiers
+		- Predictable from Observable State
+		- Predictable Exact Value from Previous Values
+		- Predictable Value Range from Previous Values
+		- Use of Invariant Value in Dynamically Changing Context
+		- Insufficient Verification of Data Authenticity
+		- Origin Validation Error
+		- Improper Verification of Cryptographic Signature
+		- Use of Less Trusted Source
+		- Acceptance of Extraneous Untrusted Data With Trusted Data
+		- Reliance on Reverse DNS Resolution for a Security Critical Action
+		- Insufficient Type Distinction
+		- Cross Site Request Forgery CSRF
+		- Missing Support for Integrity Check
+		- Improper Validation of Integrity Check Value
+		- Product UI does not Warn User of Unsafe Actions
+		- Insufficient UI Warning of Dangerous Operations
+		- Improperly Implemented Security Check for Standard
+		- Exposure of Private Personal Information to an Unauthorized Actor
+		- Trust of System Event Data
+		- Concurrent Execution using Shared Resource with Improper Synchronization Race Condition
+		- Race Condition Enabling Link Following
+		- Signal Handler Race Condition
+		- Race Condition in Switch
+		- Race Condition within a Thread
+		- Time of check Time of use TOCTOU Race Condition
+		- Context Switching Race Condition
+		- Divide By Zero
+		- Missing Check for Certificate Revocation after Initial Check
+		- Incomplete Internal State Distinction
+		- Passing Mutable Objects to an Untrusted Method
+		- Returning a Mutable Object to an Untrusted Caller
+		- Insecure Temporary File
+		- Creation of Temporary File With Insecure Permissions
+		- Creation of Temporary File in Directory with Insecure Permissions
+		- J2EE Bad Practices Use of System.exit
+		- J2EE Bad Practices Direct Use of Threads
+		- Session Fixation
+		- Covert Timing Channel
+		- Symbolic Name not Mapping to Correct Object
+		- Detection of Error Condition Without Action
+		- Unchecked Error Condition
+		- Missing Report of Error Condition
+		- Return of Wrong Status Code
+		- Unexpected Status Code or Return Value
+		- Use of NullPointerException Catch to Detect NULL Pointer Dereference
+		- Declaration of Catch for Generic Exception
+		- Declaration of Throws for Generic Exception
+		- Uncontrolled Resource Consumption
+		- Missing Release of Memory after Effective Lifetime
+		- Transmission of Private Resources into a New Sphere Resource Leak
+		- Exposure of File Descriptor to Unintended Control Sphere File Descriptor Leak
+		- Improper Resource Shutdown or Release
+		- Asymmetric Resource Consumption Amplification
+		- Insufficient Control of Network Message Volume Network Amplification
+		- Inefficient Algorithmic Complexity
+		- Incorrect Behavior Order Early Amplification
+		- Improper Handling of Highly Compressed Data Data Amplification
+		- Insufficient Resource Pool
+		- Unrestricted Externally Accessible Lock
+		- Improper Resource Locking
+		- Missing Lock Check
+		- Double Free
+		- Use After Free
+		- Unprotected Primary Channel
+		- Unprotected Alternate Channel
+		- Race Condition During Access to Alternate Channel
+		- Unprotected Windows Messaging Channel Shatter
+		- Improper Protection of Alternate Path
+		- Direct Request Forced Browsing
+		- Untrusted Search Path
+		- Uncontrolled Search Path Element
+		- Unquoted Search Path or Element
+		- Deployment of Wrong Handler
+		- Missing Handler
+		- Dangerous Signal Handler not Disabled During Sensitive Operations
+		- Unparsed Raw Web Content Delivery
+		- Unrestricted Upload of File with Dangerous Type
+		- Improper Interaction Between Multiple Correctly Behaving Entities
+		- Interpretation Conflict
+		- Incomplete Model of Endpoint Features
+		- Behavioral Change in New Version or Environment
+		- Expected Behavior Violation
+		- Unintended Proxy or Intermediary Confused Deputy
+		- Inconsistent Interpretation of HTTP Requests HTTP Request Smuggling
+		- UI Discrepancy for Security Feature
+		- Unimplemented or Unsupported Feature in UI
+		- Obsolete Feature in UI
+		- The UI Performs the Wrong Action
+		- Multiple Interpretations of UI Input
+		- User Interface UI Misrepresentation of Critical Information
+		- Insecure Default Variable Initialization
+		- External Initialization of Trusted Variables or Data Stores
+		- Non exit on Failed Initialization
+		- Missing Initialization of a Variable
+		- Use of Uninitialized Variable
+		- Incomplete Cleanup
+		- Improper Cleanup on Thrown Exception
+		- Duplicate Key in Associative List Alist
+		- Deletion of Data Structure Sentinel
+		- Addition of Data Structure Sentinel
+		- Return of Pointer Value Outside of Expected Range
+		- Use of sizeof on a Pointer Type
+		- Incorrect Pointer Scaling
+		- Use of Pointer Subtraction to Determine Size
+		- Use of Externally Controlled Input to Select Classes or Code Unsafe Reflection
+		- Modification of Assumed Immutable Data MAID
+		- External Control of Assumed Immutable Web Parameter
+		- PHP External Variable Modification
+		- Use of Function with Inconsistent Implementations
+		- Undefined Behavior for Input to API
+		- NULL Pointer Dereference
+		- Use of Obsolete Function
+		- Missing Default Case in Switch Statement
+		- Signal Handler Use of a Non reentrant Function
+		- Use of Incorrect Operator
+		- Assigning instead of Comparing
+		- Comparing instead of Assigning
+		- Incorrect Block Delimitation
+		- Omitted Break Statement in Switch
+		- Comparison of Classes by Name
+		- Reliance on Package level Scope
+		- Exposure of Data Element to Wrong Session
+		- Active Debug Code
+		- Public cloneable Method Without Final Object Hijack
+		- Use of Inner Class Containing Sensitive Data
+		- Critical Public Variable Without Final Modifier
+		- Download of Code Without Integrity Check
+		- Private Data Structure Returned From A Public Method
+		- Public Data Assigned to Private Array Typed Field
+		- Exposure of Sensitive System Information to an Unauthorized Control Sphere
+		- Cloneable Class Containing Sensitive Information
+		- Serializable Class Containing Sensitive Data
+		- Public Static Field Not Marked Final
+		- Trust Boundary Violation
+		- Deserialization of Untrusted Data
+		- Embedded Malicious Code
+		- Trojan Horse
+		- Non Replicating Malicious Code
+		- Replicating Malicious Code Virus or Worm
+		- Trapdoor
+		- Logic Time Bomb
+		- Spyware
+		- Covert Channel
+		- Covert Storage Channel
+		- Dot NET Misconfiguration Use of Impersonation
+		- Weak Password Requirements
+		- Insufficiently Protected Credentials
+		- Unprotected Transport of Credentials
+		- Use of Cache Containing Sensitive Information
+		- Use of Web Browser Cache Containing Sensitive Information
+		- Exposure of Sensitive Information Through Environmental Variables
+		- Exposure of Version Control Repository to an Unauthorized Control Sphere
+		- Exposure of Core Dump File to an Unauthorized Control Sphere
+		- Exposure of Access Control List Files to an Unauthorized Control Sphere
+		- Exposure of Backup File to an Unauthorized Control Sphere
+		- Inclusion of Sensitive Information in Test Code
+		- Insertion of Sensitive Information into Log File
+		- Exposure of Information Through Shell Error Message
+		- Servlet Runtime Error Message Containing Sensitive Information
+		- Java Runtime Error Message Containing Sensitive Information
+		- Insertion of Sensitive Information into Externally Accessible File or Directory
+		- Use of Persistent Cookies Containing Sensitive Information
+		- Inclusion of Sensitive Information in Source Code
+		- Inclusion of Sensitive Information in an Include File
+		- Use of Singleton Pattern Without Synchronization in a Multithreaded Context
+		- Missing Standardized Error Handling Mechanism
+		- Suspicious Comment
+		- Exposure of Information Through Directory Listing
+		- Missing Password Field Masking
+		- Server generated Error Message Containing Sensitive Information
+		- Incorrect Behavior Order Authorization Before Parsing and Canonicalization
+		- Files or Directories Accessible to External Parties
+		- Command Shell in Externally Accessible Directory
+		- ASP.NET Misconfiguration Not Using Input Validation Framework
+		- J2EE Misconfiguration Plaintext Password in Configuration File
+		- ASP.NET Misconfiguration Use of Identity Impersonation
+		- Use of getlogin in Multithreaded Application
+		- Use of umask with chmod style Argument
+		- Dead Code
+		- Return of Stack Variable Address
+		- Assignment to Variable without Use
+		- SQL Injection Hibernate
+		- Reliance on Cookies without Validation and Integrity Checking
+		- Authorization Bypass Through User Controlled SQL Primary Key
+		- Unsynchronized Access to Shared Data in a Multithreaded Context
+		- Expression is Always False
+		- Expression is Always True
+		- Call to Thread run instead of start
+		- Improper Following of Specification by Caller
+		- EJB Bad Practices Use of Synchronization Primitives
+		- EJB Bad Practices Use of AWT Swing
+		- EJB Bad Practices Use of Java I O
+		- EJB Bad Practices Use of Sockets
+		- EJB Bad Practices Use of Class Loader
+		- J2EE Bad Practices Non serializable Object Stored in Session
+		- Object Model Violation Just One of Equals and Hashcode Defined
+		- finalize Method Declared Public
+		- Return Inside Finally Block
+		- Empty Synchronized Block
+		- Explicit Call to Finalize
+		- Assignment of a Fixed Address to a Pointer
+		- Attempt to Access Child of a Non structure Pointer
+		- Call to Non ubiquitous API
+		- Free of Memory not on the Heap
+		- Sensitive Data Storage in Improperly Locked Memory
+		- Authentication Bypass OpenSSL CTX Object Modified after SSL Objects are Created
+		- J2EE Framework Saving Unserializable Objects to Disk
+		- Comparison of Object References Instead of Object Contents
+		- Use of Wrong Operator in String Comparison
+		- Use of GET Request Method With Sensitive Query Strings
+		- Missing Validation of OpenSSL Certificate
+		- Uncaught Exception in Servlet
+		- URL Redirection to Untrusted Site Open Redirect
+		- Client Side Enforcement of Server Side Security
+		- Use of Client Side Authentication
+		- Multiple Binds to the Same Port
+		- Unchecked Input for Loop Condition
+		- Public Static Final Field References Mutable Object
+		- Struts Non private Field in ActionForm Class
+		- Double Checked Locking
+		- Externally Controlled Reference to a Resource in Another Sphere
+		- Improper Restriction of XML External Entity Reference
+		- Improper Authorization of Index Containing Sensitive Information
+		- Insufficient Session Expiration
+		- Sensitive Cookie in HTTPS Session Without Secure Attribute
+		- Inclusion of Sensitive Information in Source Code Comments
+		- Incomplete Identification of Uploaded File Variables PHP
+		- Reachable Assertion
+		- Exposed Unsafe ActiveX Method
+		- Dangling Database Cursor Cursor Injection
+		- Unverified Password Change
+		- Variable Extraction Error
+		- Improper Validation of Function Hook Arguments
+		- Unsafe ActiveX Control Marked Safe For Scripting
+		- Executable Regular Expression Error
+		- Permissive Regular Expression
+		- Null Byte Interaction Error Poison Null Byte
+		- Dynamic Variable Evaluation
+		- Function Call with Incorrectly Specified Arguments
+		- Not Failing Securely Failing Open
+		- Unnecessary Complexity in Protection Mechanism Not Using Economy of Mechanism
+		- Not Using Complete Mediation
+		- Authorization Bypass Through User Controlled Key
+		- Weak Password Recovery Mechanism for Forgotten Password
+		- Improper Restriction of Names for Files and Other Resources
+		- External Control of Critical State Data
+		- Improper Neutralization of Data within XPath Expressions XPath Injection
+		- Improper Neutralization of HTTP Headers for Scripting Syntax
+		- Overly Restrictive Account Lockout Mechanism
+		- Reliance on File Name or Extension of Externally Supplied File
+		- Use of Non Canonical URL Paths for Authorization Decisions
+		- Incorrect Use of Privileged APIs
+		- Reliance on Obfuscation or Encryption of Security Relevant Inputs without Integrity Checking
+		- Trusting HTTP Permission Methods on the Server Side
+		- Exposure of WSDL File Containing Sensitive Information
+		- Improper Neutralization of Data within XQuery Expressions XQuery Injection
+		- Insufficient Compartmentalization
+		- Reliance on a Single Factor in a Security Decision
+		- Insufficient Psychological Acceptability
+		- Reliance on Security Through Obscurity
+		- Violation of Secure Design Principles
+		- Improper Synchronization
+		- Use of a Non reentrant Function in a Concurrent Context
+		- Improper Control of a Resource Through its Lifetime
+		- Improper Initialization
+		- Operation on Resource in Wrong Phase of Lifetime
+		- Improper Locking
+		- Exposure of Resource to Wrong Sphere
+		- Incorrect Resource Transfer Between Spheres
+		- Always Incorrect Control Flow Implementation
+		- Lack of Administrator Control over Security
+		- Operation on a Resource after Expiration or Release
+		- External Influence of Sphere Definition
+		- Uncontrolled Recursion
+		- Duplicate Operations on Resource
+		- Use of Potentially Dangerous Function
+		- Integer Overflow to Buffer Overflow
+		- Incorrect Conversion between Numeric Types
+		- Incorrect Calculation
+		- Function Call With Incorrect Order of Arguments
+		- Incorrect Provision of Specified Functionality
+		- Function Call With Incorrect Number of Arguments
+		- Function Call With Incorrect Argument Type
+		- Function Call With Incorrectly Specified Argument Value
+		- Function Call With Incorrect Variable or Reference as Argument
+		- Permission Race Condition During Resource Copy
+		- Unchecked Return Value to NULL Pointer Dereference
+		- Insufficient Control Flow Management
+		- Incomplete Blacklist to Cross Site Scripting
+		- Protection Mechanism Failure
+		- Use of Multiple Resources with Duplicate Identifier
+		- Use of Low Level Functionality
+		- Incorrect Behavior Order
+		- Incorrect Comparison
+		- Execution After Redirect EAR
+		- Improper Check or Handling of Exceptional Conditions
+		- Incorrect Type Conversion or Cast
+		- Incorrect Control Flow Scoping
+		- Use of Incorrectly Resolved Name or Reference
+		- Improper Neutralization
+		- Incorrect Ownership Assignment
+		- Improper Adherence to Coding Standards
+		- Incorrect Permission Assignment for Critical Resource
+		- Compiler Optimization Removal or Modification of Security critical Code
+		- Exposed Dangerous Method or Function
+		- Improper Check for Unusual or Exceptional Conditions
+		- Improper Handling of Exceptional Conditions
+		- Missing Custom Error Page
+		- Selection of Less Secure Algorithm During Negotiation Algorithm Downgrade
+		- Use of a One Way Hash without a Salt
+		- Use of a One Way Hash with a Predictable Salt
+		- Free of Pointer not at Start of Buffer
+		- Mismatched Memory Management Routines
+		- Release of Invalid Pointer or Reference
+		- Multiple Locks of a Critical Resource
+		- Multiple Unlocks of a Critical Resource
+		- Critical Data Element Declared Public
+		- Access to Critical Private Variable via Public Method
+		- Incorrect Short Circuit Evaluation
+		- Allocation of Resources Without Limits or Throttling
+		- Missing Reference to Active Allocated Resource
+		- Missing Release of Resource after Effective Lifetime
+		- Missing Reference to Active File Descriptor or Handle
+		- Allocation of File Descriptors or Handles Without Limits or Throttling
+		- Missing Release of File Descriptor or Handle after Effective Lifetime
+		- Improper Restriction of Recursive Entity References in DTDs XML Entity Expansion
+		- Regular Expression without Anchors
+		- Insufficient Logging
+		- Logging of Excessive Data
+		- Use of RSA Algorithm without OAEP
+		- Improper Address Validation in IOCTL with METHOD NEITHER I O Control Code
+		- Exposed IOCTL with Insufficient Access Control
+		- Operator Precedence Logic Error
+		- Reliance on Cookies without Validation and Integrity Checking in a Security Decision
+		- Use of Path Manipulation Function without Maximum sized Buffer
+		- Access of Memory Location Before Start of Buffer
+		- Out of bounds Write
+		- Access of Memory Location After End of Buffer
+		- Uncontrolled Memory Allocation
+		- Improper Filtering of Special Elements
+		- Incomplete Filtering of Special Elements
+		- Incomplete Filtering of One or More Instances of Special Elements
+		- Only Filtering One Instance of a Special Element
+		- Incomplete Filtering of Multiple Instances of Special Elements
+		- Only Filtering Special Elements at a Specified Location
+		- Only Filtering Special Elements Relative to a Marker
+		- Only Filtering Special Elements at an Absolute Position
+		- Use of Hard coded Credentials
+		- Improper Control of Interaction Frequency
+		- Guessable CAPTCHA
+		- Buffer Access with Incorrect Length Value
+		- Buffer Access Using Size of Source Buffer
+		- Reliance on Untrusted Inputs in a Security Decision
+		- Missing Synchronization
+		- Incorrect Synchronization
+		- Untrusted Pointer Dereference
+		- Use of Out of range Pointer Offset
+		- Access of Uninitialized Pointer
+		- Expired Pointer Dereference
+		- Premature Release of Resource During Expected Lifetime
+		- Improper Control of Document Type Definition
+		- Signal Handler with Functionality that is not Asynchronous Safe
+		- Inclusion of Functionality from Untrusted Control Sphere
+		- Inclusion of Web Functionality from an Untrusted Source
+		- Signal Handler Function Associated with Multiple Signals
+		- Unlock of a Resource that is not Locked
+		- Deadlock
+		- Excessive Iteration
+		- Loop with Unreachable Exit Condition Infinite Loop
+		- Use of Password Hash Instead of Password for Authentication
+		- Inappropriate Encoding for Output Context
+		- Numeric Range Comparison Without Minimum Check
+		- Improper Enforcement of Behavioral Workflow
+		- Placement of User into Incorrect Group
+		- Access of Resource Using Incompatible Type Type Confusion
+		- Missing Authorization
+		- Incorrect Authorization
+		- Use of Uninitialized Resource
+		- Missing Initialization of Resource
+		- Use of Expired File Descriptor
+		- Improper Update of Reference Count
+		- Hidden Functionality
+		- Improper Control of Dynamically Managed Code Resources
+		- Improper Control of Dynamically Identified Variables
+		- Improperly Controlled Modification of Dynamically Determined Object Attributes
+		- Use of Password Hash With Insufficient Computational Effort
+		- Improper Neutralization of Special Elements used in an Expression Language Statement Expression Language Injection
+		- Server Side Request Forgery SSRF
+		- Improper Restriction of Power Consumption
+		- Storage of Sensitive Data in a Mechanism without Access Control
+		- Insecure Storage of Sensitive Information
+		- Improper Restriction of Communication Channel to Intended Endpoints
+		- Improper Enforcement of Message Integrity During Transmission in a Communication Channel
+		- Improper Verification of Intent by Broadcast Receiver
+		- Improper Export of Android Application Components
+		- Use of Implicit Intent for Sensitive Communication
+		- Improper Authorization in Handler for Custom URL Scheme
+		- Improper Verification of Source of a Communication Channel
+		- Incorrectly Specified Destination in a Communication Channel
+		- Overly Permissive Cross domain Whitelist
+		- Improper Neutralization of Special Elements in Data Query Logic
+		- Sensitive Cookie Without HttpOnly Flag
+		- Insufficient Visual Distinction of Homoglyphs Presented to User
+		- audit
+		- Improper Restriction of Rendered UI Layers or Frames
+		- Use of Web Link to Untrusted Target with window.opener Access
+		- Incomplete Comparison with Missing Factors
+		- Comparison of Incompatible Types
+		- Comparison Using Wrong Factors
+		- Processor Optimization Removal or Modification of Security critical Code
+		- Insecure Automated Optimizations
+		- Automated Recognition Mechanism with Inadequate Detection or Handling of Adversarial Input Perturbations
+		- Use of Redundant Code
+		- Static Member Data Element outside of a Singleton Class Element
+		- Data Element Aggregating an Excessively Large Number of Non Primitive Elements
+		- Architecture with Number of Horizontal Layers Outside of Expected Range
+		- Parent Class with a Virtual Destructor and a Child Class without a Virtual Destructor
+		- Creation of Immutable Text Using String Concatenation
+		- Modules with Circular Dependencies
+		- Invokable Control Element with Large Number of Outward Calls
+		- Excessive Data Query Operations in a Large Data Table
+		- Excessive Platform Resource Consumption within a Loop
+		- Initialization with Hard Coded Network Resource Configuration Data
+		- Excessive Use of Hard Coded Literals in Initialization
+		- Missing Documentation for Design
+		- Invocation of a Control Element at an Unnecessarily Deep Horizontal Layer
+		- Multiple Inheritance from Concrete Classes
+		- Invokable Control Element with Variadic Parameters
+		- Data Access Operations Outside of Expected Data Manager Component
+		- Invokable Control Element in Multi Thread Context with non Final Static Storable or Member Element
+		- Incomplete Documentation
+		- Excessive Number of Inefficient Server Side Data Accesses
+		- Insufficient Encapsulation
+		- Parent Class with References to Child Class
+		- Creation of Class Instance within a Static Code Block
+		- Invokable Control Element with Signature Containing an Excessive Number of Parameters
+		- Runtime Resource Management Control Element in a Component Built to Run on Application Servers
+		- Missing Serialization Control Element
+		- Excessive Execution of Sequential Searches of Data Resource
+		- Inconsistency Between Implementation and Documented Design
+		- Empty Exception Block
+		- Serializable Data Element Containing non Serializable Item Elements
+		- Empty Code Block
+		- Data Resource Access without Use of Connection Pooling
+		- Non SQL Invokable Control Element with Excessive Number of Data Resource Accesses
+		- Class with Excessively Deep Inheritance
+		- Unconditional Control Flow Transfer outside of Switch Block
+		- Insufficient Adherence to Expected Conventions
+		- Floating Point Comparison with Incorrect Operator
+		- Inappropriate Source Code Style or Formatting
+		- Parent Class without Virtual Destructor Method
+		- Source Code File with Excessive Number of Lines of Code
+		- Class Instance Self Destruction Control Element
+		- Data Access from Outside Expected Data Manager Component
+		- Invokable Control Element with Excessive File or Data Access Operations
+		- Invokable Control Element with Excessive Volume of Commented out Code
+		- Class with Excessive Number of Child Classes
+		- Class with Virtual Method without a Virtual Destructor
+		- Synchronous Access of Remote Resource without Timeout
+		- Large Data Table with Excessive Number of Indices
+		- Method Containing Access of a Member Element from Another Class
+		- Use of Object without Invoking Destructor Method
+		- Use of Same Invokable Control Element in Multiple Architectural Layers
+		- Excessively Complex Data Representation
+		- Excessive Index Range Scan for a Data Resource
+		- Loop Condition Value Update within the Loop
+		- Singleton Class Instance Creation without Proper Locking or Synchronization
+		- Persistent Storable Data Element without Associated Comparison Control Element
+		- Data Element containing Pointer Item without Proper Copy Control Element
+		- Inconsistent Naming Conventions for Identifiers
+		- Insufficient Isolation of System Dependent Functions
+		- Reliance on Runtime Component in Generated Code
+		- Reliance on Machine Dependent Data Representation
+		- Use of Platform Dependent Third Party Components
+		- Use of Unmaintained Third Party Components
+		- Insufficient Encapsulation of Machine Dependent Functionality
+		- Insufficient Use of Symbolic Constants
+		- Insufficient Isolation of Symbolic Constant Definitions
+		- Excessive Reliance on Global Variables
+		- Use of Same Variable for Multiple Purposes
+		- Incomplete Design Documentation
+		- Incomplete I O Documentation
+		- Incomplete Documentation of Program Execution
+		- Inappropriate Comment Style
+		- Inappropriate Whitespace Style
+		- Source Code Element without Standard Prologue
+		- Inaccurate Comments
+		- Callable with Insufficient Behavioral Summary
+		- Insufficient Documentation of Error Handling Techniques
+		- Excessive Use of Unconditional Branching
+		- Excessive Code Complexity
+		- Excessive McCabe Cyclomatic Complexity
+		- Excessive Halstead Complexity
+		- Excessive Use of Self Modifying Code
+		- Excessively Deep Nesting
+		- Excessive Attack Surface
+		- Declaration of Variable with Unnecessarily Wide Scope
+		- Compilation with Insufficient Warnings or Errors
+		- Irrelevant Code
+		- Improper Use of Validation Framework
+		- Dot NET Misconfiguration Improper Model Validation
+		- Inefficient CPU Computation
+		- Use of Prohibited Code
+		- Insecure Default Initialization of Resource
+		- Improper Isolation of Shared Resources on System on Chip SoC
+		- DMA Device Enabled Too Early in Boot Phase
+		- Exposed Chip Debug Interface With Insufficient Access Control
+		- Power On of Untrusted Execution Core Before Enabling Fabric Access Control
+		- Failure to Disable Reserved Bits
+		- Insufficient Granularity of Access Control
+		- Incorrect Register Defaults or Module Parameters
+		- Insufficient Granularity of Address Regions Protected by Register Locks
+		- Race Condition for Write Once Attributes
+		- Improper Restriction of Write Once Bit Fields
+		- Creation of Emergent Resource
+		- Exposure of Sensitive Information Through Metadata
+		- Improper Implementation of Lock Protection Registers
+		- Improper Lock Behavior After Power State Transition
+		- Improper Hardware Lock Protection for Security Sensitive Controls
+		- Hardware Internal or Debug Modes Allow Override of Locks
+		- Incorrect Use of Autoboxing and Unboxing for Performance Critical Operations
+		- Improper Neutralization of Formula Elements in a CSV File
+		- Improper Zeroization of Hardware Register
+		- Use of a Risky Cryptographic Primitive
+		- Use of Predictable Algorithm in Random Number Generator
+		- Inclusion of Undocumented Features or Chicken Bits
+		- Exposure of Security Sensitive Fuse Values During Debug
+		- Improper Authorization on Physical Debug and Test Interfaces
+		- Improper Finite State Machines FSMs in Hardware Logic
+		- Improper Write Handling in Limited write Non Volatile Memories
+		- Missing Protection Against Voltage and Clock Glitches
+		- Semiconductor Defects in Hardware Logic with Security Sensitive Implications
+		- Application Level Admin Tool with Inconsistent View of Underlying Operating System
+		- Improper Preservation of Consistency Between Independent Representations of Shared State
+		- Mirrored Regions with Different Values
+		- CPU Hardware Not Configured to Support Exclusivity of Write and Execute Operations
+		- key vault
+		- Sensitive Information Exposure in URL
+		- Sensitive Information Exposure in client Side Storage
+		- Password Hash Salt Length
+		- OOB Unencrypted
+		- Secure OOB Channel
+		- OOB PIN Expiry
+		- OOB Key Used Once
+		- Identity Spoofing
+		- No Character type limitation
+		- No Credential Rotation Requirements
+		- Filename injection Path traversal
+		- XSS injection
+		- Command injection
+		- Cross site request forgery
+		- XXE injections
+		- X Path injections
+		- XML injection
+		- External DTD parsing
+		- LDAP injection
+		- SSI injections
+		- File upload injections
+		- Version management
+		- Verbose error messaging
+		- Debug enabeling
+		- Robots.txt
+		- Accessible non parsed dynamic scripts
+		- Include anti caching headers
+		- Include anti clickjacking headers
+		- Include X XSS
+		- Include X Content Type Options header
+		- Include Strict Transport Security header
+		- Unauthorized credential changes
+		- Double decoding of headers parameters
+		- Resource identifier injection
+		- Dynamic scripting injection
+		- Regular expression injection
+		- Automated spamming via feedback scripts
+		- Session cookies without the Secure attribute
+		- Session cookies without the HttpOnly attribute
+		- External session hijacking
+		- Communication between components (low privileges)
+		- Insecure transmission of session cookies
+		- Principle of complete mediation
+		- Prepared statements and query parameterization
+		- Sensitive information transmitted by unencrypted methods
+		- The crossdomain xml should only contains trusted domains
+		- Directory listing
+		- Open forward and Open redirects
+		- Extraneous files in document root
+		- Username enumeration
+		- GET POST requests
+		- Audit logs
+		- Re authentication
+		- Absolute session time out
+		- Session Domain cookies
+		- Input rejection
+		- Input validation
+		- Single input validation controls
+		- CA certificates
+		- Sandboxing
+		- Repudiation attack
+		- Server side validation
+		- HTTP header injection
+		- Enforce sequential step order
+		- Step up or adaptive authentication
+		- Cross origin resource sharing
+		- Principle of least privilege
+		- Character encoding
+		- HTTP request methods
+		- HTML Caching and client side caching
+		- Automatic parameter binding
+		- Access control pattern
+		- Password forget pattern
+		- SQL injection Column truncation
+		- Cross subdomain cookie attack
+		- RFD and file download injections
+		- Forward secrecy ciphers
+		- STRIDE
+		- Limiting user input size
+		- XML attacks
+		- Auto escaping technology
+		- Hardware key vault
+		- SOAP basic profile
+		- Sanitize unstructured data
+		- PII protection
+		- Principle of least privilege
+		- CSRF on REST
+		- File upload anti virus check
+		- File upload outside document root
+		- High value transactions
+		- Log injection
+		- TLS settings are in line with current leading practice
+		- Data retention policy
+		- Authenticated data cleared from client storage
+		- All error handling logic must fail securely
+		- Display concurrent and active sessions
+		- Centralized the mechanisms for protecting resources and the access
+		- Third party components
+		- Policy for processing sensitive data
+		- Server side request forgery
+		- Tabnabbing
+		- Insecure direct object references
+		- Type checking and length checking
+		- SMTP IMAP injection
+		- Insecure object deserialization
+		- Functional security constraints
+		- Attribute based authorization
+		- Key management and key lifecycle by NIST
+		- Key vault
+		- Secrets shared with the client
+		- Data protection levels
+		- Referrer policy header
+		- Insecure application defaults
+		- GraphQL security
+		- JSON validation schema
+		- Serve files whitelist.
+		- User supplied scriptable or expression template language content
+		- Replay attacks
+		- Race conditions
+		- Stateless session tokens
+		- Exception handling
+		- Back up data
+		- Code signing
+		- Secure random generators
+		- XSLT injections
+		- Server side template injection
+	- ## Mobile Applications
+	  collapsed:: true
+		- Identify components
+		- Server side controls and injection flaws
+		- Applications high level architecture
+		- Data classification
+		- Definition of all components
+		- Threat modelling
+		- Centralized security controls
+		- Cryptographic keys management
+		- Enforcing updates
+		- Secure software development lifecycle
+		- Responsible disclosure policy
+		- Privacy laws and regulations
+		- Local storage for sensitive data
+		- Logs for sensitive data
+		- Determining whether sensitive data is sent to third parties
+		- Sensitive data in the keyboard cache
+		- Determining whether sensitive data is exposed via ipc mechanisms
+		- Backup files for sensitive data
+		- Sensitive information in auto generated screenshots
+		- Memory for sensitive data
+		- Device access security policy
+		- User education
+		- Sensitive data disclosure through the user interface
+		- Sensitive data on local device
+		- Symmetric cryptography
+		- Implementations of cryptographic primitives and industry standards
+		- Identifying insecure deprecated cryptographic algorithms
+		- Testing the purposes of keys
+		- Random number generation
+		- Verifying appropriate authentication
+		- Stateful session management
+		- Stateless authentication
+		- User logout
+		- Best practices for passwords
+		- Password brute forces
+		- Session timeout
+		- Biometric authentication
+		- Two factor authentication and step up authentication
+		- Login activity and device blocking
+		- Data encryption on the network
+		- Endpoint identify verification
+		- Custom certificate stores and certificate pinning
+		- Making sure that critical operations use secure communication channels
+		- App permissions
+		- Input validation and injection flaws
+		- Custom url schemes
+		- Sensitive functionality exposure through ipc
+		- Javascript execution in webviews
+		- Webview protocol handlers
+		- Determining whether java objects native methods are exposed through webviews
+		- Object persistence
+		- Overlay attacks
+		- Webview sources should be cleared
+		- Prevent third party keyboards to access sensitive data
+		- Application signing
+		- Determining whether the app is debuggable
+		- Finding debugging symbols
+		- Testing for debugging code and verbose error logging
+		- Checking for weaknesses in third party libraries
+		- Exception handling
+		- Memory corruption bugs
+		- Jailbreak root detection
+		- Anti debugging detection
+		- File integrity checks
+		- Reverse engineering tools detection
+		- Emulator detection
+		- Runtime integrity checks
+		- Multiple mechanisms in each defense category
+		- Detection and reporting mechanism
+		- Testing obfuscation
+		- Device binding
+		- Protect sensitive computations using obfuscation
+		- Additonal layer protection payload encryption
+		- Authorization models
+		- Architecture Design and Threat Modeling Requirements
+		- Data Storage and Privacy Requirements
+		- Cryptography Requirements
+		- Authentication and Session Management Requirements
+		- Network Communication Requirements
+		- Platform Interaction Requirements
+		- Code Quality and Build Settings Requirements
+		- Resilience Requirements
+		- Local storage wiping
+		- Make sure that free security features are activated
+		- Security provider
+	- ### Custom Checklist
+		- Allows the user to select different KB entries, and generate a custom checklist of the articles of interest of that user.

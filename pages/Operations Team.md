@@ -1,0 +1,43 @@
+- # Objectives
+	- ## Maintain
+		- **The primary objective of the Operations Team is ensuring that that SKF survives the test of time and is freely available for generations of Security learning.**
+			- ### Git Repository
+				- Anything merged into the SKF repository will become responsibly of the SKF Operations.
+					- Information that is no longer factual will either be updated or retired by the SKF Operations.
+					- Contributions to the SKF repository shall be reviewed and merged in a timely manner by SKF Operations.
+						- Contributions that do no adhere to SKF Contribution Guidelines, shall be given assistance or clear instructions of what needs to be rectified.
+					- SKF Operations shall maintain a CodeSpaces Developer configuration to ease contributions to SKF.
+			- ### CI/CD
+				- Ongoing improvement and maintenance of CI/CD pipelines shall be carried out by SKF Operations.
+			- ### Security
+				- SKF Operations will handle any Security Incidents.
+			- ### Cloud Operations
+				- Make sure that SKF Cloud services remain operational.
+				- Make sure that the SKF Platform runs within it's allocated budget.
+			- ### Systems
+				- Make sure that SKF System services remain operational and up-to-date.
+	- ## Steward
+		- ### API Development
+			- SKF Operations will architect, develop, and maintain all SKF APIs offered.
+		- ### UI/UX
+			- SKF Operations will design, maintain, and continuously improve the SKF Platform's UI/UX.
+		- ### Feedback
+			- SKF Operations will ensure that community feedback is consistently prioritized.
+			- SKF Operations shall work with the Education SIG as it's primary channel for community feedback.
+	- ## Organize
+- # Team
+	- ## Admin
+		- ### Stakeholders
+			- Glenn ten Cate
+			  *Project Lead - Quality Assurance*
+			- Riccardo ten Cate
+		- ### Architect
+			- Randall T. Vasquez
+	- ## Teams
+		- ### Lead
+			- Antony Faris
+		- ### Development Team
+			- Peter Singh
+			- Okiki Ojo
+		- ### Design Team
+			- Carissa Cobian (Part Time)

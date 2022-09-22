@@ -1,0 +1,195 @@
+- [[draws/2022-10-18-08-09-29.excalidraw]]
+- # Structure
+	- All labs are currently offered in...
+		- **Python**
+		- **Nodejs**
+		- **Java**
+	- All labs include an `Start` button that will take that user to the *live desktop environment* to perform the work.
+		- The *live desktop environment* is powered by **Kubernetes**.
+	- ## Level
+		- All labs are separated into levels.
+	- ## Label
+		- Most of the current lab offerings are provided through either *SKF-labs* or *juice-shop*.
+	- ## Writeup
+		- All labs include a write-up containing a explanation and breakdown of the exploit being demonstrated, although with the walk-through demonstration.
+- # Current Lab Offerings
+	- ## Level 1
+	  collapsed:: true
+		- ### SKF-labs
+			- Path traversal (LFI)
+			- Cross Site Scripting
+			- Cross site scripting (attribute)
+			- Cross site scripting (href)
+			- Insecure file upload
+			- Clickjacking
+			- Rate-limiting
+			- Open redirect
+			- Formulla injection
+			- Mass assingment attack
+			- Remote file inclusion
+			- Local file inclusion ( harder )
+			- Local file inclusion ( hard )
+			- Content security policiy
+			- Regex Ddos
+			- Command injection
+			- Command injection ( easy )
+			- Information disclosure 1
+			- Information disclosure 2
+			- Authentication bypass ( easy )
+			- Authentication bypass
+			- Right to left override attack
+			- Client side restriction bypass
+		- ### juice-shop
+			- Confidential Document
+			- DOM XSS
+			- Error Handling
+			- Outdated Whitelist
+			- Privacy Policy
+			- Repetitive Registration
+			- Score Board
+			- Zero Stars
+			- Missing Encoding
+			- Exposed Metrics
+			- Bonus Payload
+	- ## Level 2
+	  collapsed:: true
+		- ### SKF-labs
+			- XSSI
+			- Cross site request forgery weak
+			- External entity attack
+			- SQLI (union select)
+			- Open redirect ( harder )
+			- SQLI -like
+			- Insecure direct object reference
+			- JWT null
+			- JWT weak secret
+			- Command injection ( harder )
+			- Authentication bypass ( harder )
+			- Client side template injection
+			- CSS Injection
+			- Client side restriction bypass ( harder )
+			- Credentials guessing ( easy )
+			- Credentials guessing ( harder )
+			- Credentials guessing ( hard )
+		- ### juice-shop
+			- Admin Section
+			- Deprecated Interface
+			- Five-Star Feedback
+			- Login Admin
+			- Login MC SafeSearch
+			- Password Strength
+			- Reflected XSS
+			- Security Policy
+			- View Basket
+			- Weird Crypto
+	- ## Level 3
+	  collapsed:: true
+		- ### SKF-labs
+			- Cross site request forgery
+			- Cross site request forgery (same site)
+			- HttpOnly (session hijacking)
+			- Open redirect ( hard )
+			- CORS exploitation
+			- SQLI-blind
+			- Server side request forgery
+			- Server side template injection
+			- Insecure deserialization (yaml)
+			- Insecure deserialization pickle ( hard )
+			- Insecure deserialization pickle ( harder )
+			- Race condition
+			- Command injection ( hard )
+			- Command injection ( blind )
+			- Authentication bypass ( hard )
+			- Session puzzeling
+			- Graphql DOS
+			- GraphQL IDOR
+			- GraphQL Injections
+			- GraphQL Introspection
+			- GraphQL Mutations
+			- Prototype pollution
+			- SKF Hack OS Python
+			- SKF Hack OS Java
+		- ### juice-shop
+			- API-only XSS
+			- Admin Registration
+			- Bjoerns Favorite Pet
+			- CAPTCHA Bypass
+			- Client-side XSS Protection
+			- Database Schema
+			- Forged Feedback
+			- Forged Review
+			- GDPR Data Erasure
+			- Login Amy
+			- Login Bender
+			- Login Jim
+			- Manipulate Basket
+			- Payback Time
+			- Privacy Policy Inspection
+			- Product Tampering
+			- Reset Jims Password
+			- Upload Size
+			- Upload Type
+			- XXE Data Access
+			- Deluxe Fraud
+			- CSRF
+			- Juice Shop CTF
+	- ## Level 4
+	  collapsed:: true
+		- ### juice-shop
+			- Access Log
+			- Christmas Special
+			- CSP Bypass
+			- Easter Egg
+			- Ephemeral Accountant
+			- Expired Coupon
+			- Forgotten Developer Backup
+			- Forgotten Sales Backup
+			- GDPR Data Theft
+			- HTTP-Header XSS
+			- Leaked Unsafe Product
+			- Legacy Typosquatting
+			- Login Bjoern
+			- Misplaced Signature File
+			- Nested Easter Egg
+			- NoSQL DoS
+			- NoSQL Manipulation
+			- Reset Benders Password
+			- Server-side XSS Protection
+			- Steganography
+			- User Credentials
+			- Vulnerable Library
+			- Whitelist Bypass
+	- ## Level 5
+	  collapsed:: true
+		- ### juice-shop
+			- Blockchain Hype
+			- Blocked RCE DoS
+			- Change Benders Password
+			- Email Leak
+			- Extra Language
+			- Frontend Typosquatting
+			- Leaked Access Logs
+			- Login CISO
+			- NoSQL Exfiltration
+			- Reset Bjoerns Password
+			- Reset Mortys Password
+			- Retrieve Blueprint
+			- Supply Chain Attack
+			- Two Factor Authentication
+			- Unsigned JWT
+			- XXE DoS
+			- Cross-Site Imaging
+	- ## Level 6
+	  collapsed:: true
+		- ### juice-shop
+			- Arbitrary File Write
+			- Forged Coupon
+			- Forged Signed JWT
+			- Imaginary Challenge
+			- Login Support Team
+			- Multiple Likes
+			- Premium Paywall
+			- SSRF
+			- SSTi
+			- Successful RCE DoS
+			- Video XSS

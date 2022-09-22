@@ -1,0 +1,111 @@
+- University/College Student
+	- Name
+		- Susan
+	- Age
+		- 21
+	- Education
+		- Studying CS at university
+	- Occupation
+		- Internship
+	- Usage Habit/Details
+		- Reading articles of interest
+		- Watches online videos about Security
+	- Security Experience
+		- No first-hand experience
+	- Development Skills/Ability
+		- Basic web development
+		- Basic backend skills
+	- Other
+- Secondary/Primary Ed. Student
+	- Name
+		- Ryan
+	- Age
+		- 14
+	- Education
+		- Studying at Secondary
+	- Occupation
+		- Student
+	- Usage Habit/Details
+		- Plays video games
+	- Security Experience
+		- None
+	- Development Skills/Ability
+		- None
+	- Other
+- Experienced Professional
+	- Name
+		- Michael
+	- Age
+		- 42
+	- Education
+		- University graduated
+	- Occupation
+		- Head of Security
+	- Usage Habit/Details
+		- Uses laptop more than 8 hours a day
+	- Security Experience
+		- Knows the material
+	- Development Skills/Ability
+		- Knowledgeable
+	- Other
+		- Married with kids
+- New Professional/recent grads
+	- Name
+		- Ricky Martin
+	- Age
+		- 23
+	- Education
+		- Just graduated this year
+	- Occupation
+		- Unemployed, looking for a job
+		- Has job offer from reputable Government Security Contractor
+	- Usage Habit/Details
+		- Typically uses Phone, as main information device
+		- Also owns a Laptop, and a Desktop Computer.
+	- Security Experience
+		- Not a whole lot outside of school
+	- Development Skills/Ability
+		- None
+		- Was told that coding was not a requirement of being in CyberSecurity
+			- Maybe a bit resilient to (and unprepared for) hands-on training that involves code
+	- Other
+		- Has several friends that already work in the CyberSecurity industry
+- Developer Manager
+- QE/Tester
+- DevOps/DevSecOps Engineer
+	- Name
+		- Sam
+	- Age
+		- 32
+	- Education
+		- Computer Science graduated
+	- Occupation
+		- DevSecOps Engineer
+	- Usage Habit/Details
+		-
+	- Security Experience
+		-
+	- Development Skills/Ability
+		- Application security knowledge
+		- Cloud infrastructure knowledge
+	- Other
+		-
+- Second Career Learner
+	- Name
+		- Robert
+	- Age
+		- 40
+	- Education
+		- Technical Education
+		- Currently studying security at university
+	- Occupation
+		- Computer technician
+	- Usage Habit/Details
+		- Collects vintage pcs
+	- Security Experience
+		- None
+	- Development Skills/Ability
+		- Basic technical knowledge of networks
+		- Basic knowledge of hardware and software
+	- Other
+		- Married with kids

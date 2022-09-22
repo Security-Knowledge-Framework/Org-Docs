@@ -1,0 +1,2 @@
+- # Current System Layout
+  ![image.png](../assets/image_1663819439153_0.png)
