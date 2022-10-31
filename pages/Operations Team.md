@@ -1,21 +1,35 @@
 - # Objectives
 	- ## Maintain
-		- **The primary objective of the Operations Team is ensuring that that SKF survives the test of time and is freely available for generations of Security learning.**
+		- **The primary objective of the Operations Team is ensuring that SKF survives the test of time and is freely available for generations of Security learning.**
 			- ### Git Repository
-				- Anything merged into the SKF repository will become responsibly of the SKF Operations.
-					- Information that is no longer factual will either be updated or retired by the SKF Operations.
-					- Contributions to the SKF repository shall be reviewed and merged in a timely manner by SKF Operations.
+				- Anything merged into the SKF repository will become responsibly of the SKF Operations team.
+					- Information that is no longer factual will either be updated or retired by the SKF Operations team.
+					- Contributions to the SKF repository shall be reviewed and merged in a timely manner by SKF Operations team.
+						- SKF Operations team will provide Github workflows for smooth contributions and expectation management.
 						- Contributions that do no adhere to SKF Contribution Guidelines, shall be given assistance or clear instructions of what needs to be rectified.
 					- SKF Operations shall maintain a CodeSpaces Developer configuration to ease contributions to SKF.
-			- ### CI/CD
-				- Ongoing improvement and maintenance of CI/CD pipelines shall be carried out by SKF Operations.
+				- #### CI/CD
+					- The SKF application with all the components will be fully automated and shall be carried out by SKF Operations team.
+					- Ongoing improvement and maintenance of CI/CD pipelines shall be carried out by SKF Operations team.
+					- SKF Operations team will create code/language quality checks for maintainability and performance.
 			- ### Security
 				- SKF Operations will handle any Security Incidents.
-			- ### Cloud Operations
-				- Make sure that SKF Cloud services remain operational.
-				- Make sure that the SKF Platform runs within it's allocated budget.
-			- ### Systems
-				- Make sure that SKF System services remain operational and up-to-date.
+				- SKF Operations team will perform secure code reviews on the PR's
+				- SKF Operations team will perform security penetration tests on the PR's
+				- SKF Operations team will integrate security test automation in the CI/CD pipeline
+					- SAST
+					- SCA
+				- Start a bug bounty program (TBD what platform)
+			- ### Infra Maintenance
+				- #### Cloud Operations
+					- Make sure that SKF Cloud services remain operational.
+					- Make sure that the SKF Platform runs within it's allocated budget.
+				- #### Services
+					- Make sure that SKF System services ( See Services page ) remain operational and up-to-date.
+				- #### Information gathering
+					- APM
+					- Analytics
+					- Security and event monitoring
 	- ## Steward
 		- ### API Development
 			- SKF Operations will architect, develop, and maintain all SKF APIs offered.
@@ -24,20 +38,40 @@
 		- ### Feedback
 			- SKF Operations will ensure that community feedback is consistently prioritized.
 			- SKF Operations shall work with the Education SIG as it's primary channel for community feedback.
+		- ### Content quality
+			- SKF Operations shall work with the content providers/donators for improving the source materials when possible gaps in materials are identified.
+			- SKF Operations shall work with the content providers/donators to make sure the hands-on labs are correctly being setup and is the level of quality we desire.
 	- ## Organize
+		- Bi-weekly public meetings where we prioritise the work to be executed
+		- Executive meetings (Stakeholders, Team Lead, Architect) for roadmap & strategic discussions
+		- Active in the Slack, Gitter, Discord channels to address the questions of the users related to the SKF features, material information and Labs. Live support channel.
+	-
 - # Team
 	- ## Admin
-		- ### Stakeholders
+		- ### Project management
 			- Glenn ten Cate
-			  *Project Lead - Quality Assurance*
+			  *Project Lead - Mission, vision, strategy*
 			- Riccardo ten Cate
-		- ### Architect
+			  *Project Lead - Quality Assurance*
 			- Randall T. Vasquez
+			  *Project Lead - Architect*
 	- ## Teams
-		- ### Lead
+		- ### Lead Developer
 			- Antony Faris
-		- ### Development Team
-			- Peter Singh
-			- Okiki Ojo
-		- ### Design Team
-			- Carissa Cobian (Part Time)
+			- #### Development Team
+				- Peter Singh
+				- Okiki Ojo
+			- ### Design Team
+				- Carissa Cobian (Part Time)
+			- ### Platform Team
+				- DevOps engineer (tbd)
+- # Advisory committee
+	- OWASP / OpenSSF -> Glenn ten Cate
+	- OWASP / OpenSSF -> Riccardo ten Cate
+	- Intel -> Christopher Robinson
+	- LF -> David Wheeler
+	- ING -> Sophie Andries
+	- MS -> Jelle Niemantsverdriet
+	- Github -> Xavier René-Corail
+	- SonaType -> Sal Kimmich
+	- RedHat -> Dave Russo

@@ -30,7 +30,6 @@ filters:: {"contents" false}
 		- ##### Nodes
 			- [[Concepts]]
 				- [[Training Courses]]
-			- [[Lexicon]]
 			- [[Labs]]
 	- ### Security Requirements (Application)
 		- [[Projects]]
@@ -38,7 +37,14 @@ filters:: {"contents" false}
 	- ### Security Checklists (Application)
 		- [[Checklists]]
 		- [[Knowledge-base]]
-	- ### SKF Discord Channel
-	- ### SKF Gitter Channel
-	- ### SKF Channel on OWASP Slack
+	- ### Security Knowledge Base
+		- [[Lexicon]]
+	- ### Community support
+		- SKF Discord Channel
+		- SKF Gitter Channel
+		- SKF Channel on OWASP Slack
 	- #### Hack OS (Operating System) [FUTURE]
+		- Most common and used tools for Offensive security
+			- Pentester tools like, OWASP ZAP, Cewl etc.
+		- Most common and used tools for Defensive security
+			- MS Visual studio code, Postman, Selenium, CodeQL, etc,

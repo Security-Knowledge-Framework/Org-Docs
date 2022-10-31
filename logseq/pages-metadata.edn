@@ -37,12 +37,9 @@
  {:block/name "done",
   :block/created-at 1663861445300,
   :block/updated-at 1663861445300}
- {:block/name "draws/2022-10-18-08-09-29.excalidraw",
-  :block/created-at 1666105988770,
-  :block/updated-at 1666105988770}
  {:block/name "executive summary",
   :block/created-at 1666101658513,
-  :block/updated-at 1666721245099}
+  :block/updated-at 1667153417239}
  {:block/name "favorites",
   :block/created-at 1663861445300,
   :block/updated-at 1663861445300}
@@ -70,15 +67,15 @@
  {:block/name "lexicon",
   :block/created-at 1666721238258,
   :block/updated-at 1666721238258}
+ {:block/name "materials available",
+  :block/created-at 1667059442024,
+  :block/updated-at 1667059442024}
  {:block/name "now",
   :block/created-at 1663861445300,
   :block/updated-at 1663861445300}
- {:block/name "objectives",
-  :block/created-at 1663818141932,
-  :block/updated-at 1663859569208}
  {:block/name "operations team",
   :block/created-at 1666655343308,
-  :block/updated-at 1666655343308}
+  :block/updated-at 1667236194955}
  {:block/name "owasp",
   :block/created-at 1663818141953,
   :block/updated-at 1663818141953}

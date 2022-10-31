@@ -232,6 +232,7 @@
  :editor/logical-outdenting? true
  :feature/enable-flashcards? false
  :publishing/all-pages-public? true
+ :graph/settings {:journal? false, :builtin-pages? true}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
