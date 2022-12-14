@@ -4,7 +4,7 @@
 	- Age
 		- 21
 	- Education
-		- Studying CS at university
+		- Studying CS at an university
 	- Occupation
 		- Internship
 	- Usage Habit/Details
