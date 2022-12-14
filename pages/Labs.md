@@ -1,4 +1,3 @@
-- [[draws/2022-10-18-08-09-29.excalidraw]]
 - # Structure
 	- All labs are currently offered in...
 		- **Python**
