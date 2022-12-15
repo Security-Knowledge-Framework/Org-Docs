@@ -1051,3 +1051,4 @@
 		- Security provider
 	- ### Custom Checklist
 		- Allows the user to select different KB entries, and generate a custom checklist of the articles of interest of that user.
+-

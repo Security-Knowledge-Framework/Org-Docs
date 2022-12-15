@@ -1,0 +1,1 @@
+- Looking at the content for what it is, and not what it tries to sell.

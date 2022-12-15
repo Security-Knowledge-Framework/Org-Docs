@@ -1,8 +1,8 @@
 - # Current Course Offering
-	- [[Secure Development]]
-	- [[Hacking Web & API]]
-	- [[Infrastructure and Ops]]
-	- [[OWASP]]
+	- [[Graph/Courses/Secure Development]]
+	- [[Graph/Courses/Hacking Web & API]]
+	- [[Graph/Courses/Infrastructure and Ops]]
+	- [[Graph/Courses/OWASP]]
 - # Structure
 	- ## Difficultly Levels
 		- All courses offer 3 different levels of difficultly.

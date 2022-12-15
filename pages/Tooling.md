@@ -1,0 +1,1 @@
+- The objective of SKF provided Tooling is to facilitate and enable our learners in a way, they can take SKF with them for their Career journey.
