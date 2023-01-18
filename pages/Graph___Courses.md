@@ -1,7 +1,7 @@
 - # Current Course Offering
-	- [[Graph/Courses/Secure Development]]
+	- [[Graph/Courses/Secure Development (OSSF)]]
 	- [[Graph/Courses/Hacking Web & API]]
-	- [[Graph/Courses/Infrastructure and Ops]]
+	- [[Graph/Courses/Infrastructure and Ops (SKF)]]
 	- [[Graph/Courses/OWASP]]
 - # Structure
 	- ## Difficultly Levels

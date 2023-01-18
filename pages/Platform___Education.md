@@ -1,21 +1,19 @@
+filters:: {"executive summary" false}
+
 - ## Curriculum
+	- Best Practices
+		- [Secure Development (OSSF)]([[Graph/Courses/Secure Development (OSSF)]])
 	- Web Application Security
 		- Offensive
-			- OWASP Juice Shop
-				- Find the Scoreboard
+			- 🚧 Smashing The Web...for Fun and Profit! (SKF)
 		- Defensive
-			- OWASP WSTG
-			- OWASP ASVS
-			- Threat Modeling
-			- API Security
-				- [Hacking Web & API]([[Graph/Courses/Hacking Web & API]])
-			- SecDevOps
-				- [Infrastructure and Ops]([[Graph/Courses/Infrastructure and Ops]])
+			- OWASP WSTG (SKF)
+			- OWASP ASVS (SKF)
+			- 🚧 Threat Modeling (SKF)
+			- [API Security (SKF)]([[Graph/Courses/Hacking Web & API]])
+			- [SecDevOps (SKF)]([[Graph/Courses/Infrastructure and Ops (SKF)]])
 	- Network Security
 	- System Security
 	- IOT Security
-	-
-	-
-	- Other Courses
-		- [[Graph/Courses/Secure Development]]
+	- Community
 		- [[Graph/Courses/OWASP]]

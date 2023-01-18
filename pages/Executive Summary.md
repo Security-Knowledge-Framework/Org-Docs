@@ -1,24 +1,24 @@
 filters:: {"contents" false}
 
-- ## Objectives
-	- **To provide a quality Security-focused Developer-oriented [educational platform]([[Platform/Education]]) , focused on providing much-needed hands-on training and experience to learners.**
-		- Act as a centralized education hub for the Open Source Security Education (OpenSSF).
-			- Supported by OpenSSF
-				- David Wheeler (through OpenSSF) has contributed and maintains the Security Fundamentals course.
-			- Supported by OWASP
-				- OWASP has contributed and maintains the Application Security Verification Standard (ASVS) and Web Security Testing Guide (WSTG).
-					- SKF currently features a hands-on training lab that correlates to both ASVS and WSTG.
-						- OWASP is currently authoring version 5 of the ASVS, which is expected to land in 2023~2024.
-	- To provide accredited Certifications to the Security Community, that carry legitimate value, yet still remain affordable.
-	- To provide SKF users tooling (and tooling recommendation, where applicable) that reinforces the SKF education; and is useful in real-world applications.
-		- Once the original focus of the SKF platform.
-	- To provide a line of support for Knowledge seekers.
-- ## Intended Audience
-	- [[Executive Summary/User Personas]]
+- ## Objective(s)
+	- **Provide an educational ecosystem and platform for Security Engineers, Developers, and Researchers that can be useful at any point of a security journey.**
+		- Supported by OpenSSF
+			- David Wheeler (through OpenSSF) has contributed and maintains the Security Fundamentals course.
+			- We act as a centralized education hub for OpenSSF's Education SIG, as voted by the OpenSSF's Best Practices WG and outlined in Section 5 of the OpenSSF Mobilization plan.
+		- Supported by OWASP
+			- OWASP has contributed and maintains the Application Security Verification Standard (ASVS) and Web Security Testing Guide (WSTG).
+				- SKF currently features a hands-on training lab that correlates to both ASVS and WSTG.
+					- OWASP is currently authoring version 5 of the ASVS, which is expected to land in 2023~2024.
+	- To provide [SKF users tooling (and tooling recommendation, where applicable)]([[Tooling]]) that reinforces the SKF education; and is useful in real-world application.
+		- *Once this was the original primary focus of the SKF platform.*
+	- To provide [lines of support and community engagement](((63c8573a-9c00-4b4f-88c6-c2e68ef3d6d1))) for Security Engineers, Developers, and Researchers.
+	- Provide [accredited Certifications]([[Platform/Examination]]) to the Security Community, that carry legitimate value and will help build a respectable career profile; yet still remain affordable.
+- ## [Intended Audience]([[Executive Summary/User Personas]])
+- ## [Core Team]([[Executive Summary/SKF Core Team]])
 - ## Products
-	- ### SKF Platform  (Web Application)
-		- [Examination Platform]([[Platform/Examination]])
+	- ### [SKF Platform  (Web Application)]([[Platform]])
 		- [Education Platform]([[Platform/Education]])
+		- [Examination Platform]([[Platform/Examination]])
 	- ### Security Knowledge Graph (Public API & Database)
 		- The Security Knowledge Graph is a neo4j Graph Database.
 		- #### Nodes
@@ -39,8 +39,11 @@ filters:: {"contents" false}
 			- Most common and used tools for Defensive security
 				- MS Visual studio code, Postman, Selenium, CodeQL, etc,
 - ## Services
+  collapsed:: true
 	- ### Community support
+	  id:: 63c8573a-9c00-4b4f-88c6-c2e68ef3d6d1
 		- SKF Discord Channel
 		- SKF Gitter Channel
 		- SKF Channel on OWASP Slack
 		- SKF Channel on OSSF Slack
+- ## [[Executive Summary/LF]]

@@ -1,0 +1,27 @@
+filters:: {"executive summary" false}
+
+- ## Recap
+	- In Summer 2022, SKF began it's refactor into the 'new' SKF.
+	- In September 2022, the Education SIG voted to centralize efforts on SKG.
+	- In September thru October 2022, Glenn, Randall, and various SKF team members had several meeting with David, CRob, Brian, and various other OSSF member to clarify the relationship between SKF and OSSF/LF.
+		- It was decided that SKF should fully be part of OSSF in these discussions.
+		- It was suggested that LF (for OSSF) would hire SKF Core Team Members so more time could be spent on the platform and for working on the Education SIG led content expansion.
+			- This would advised the OSSF salaries were roughly $300,000, which about half of that being expenses, and the yearly take home salary would be the other half.
+				- With these numbers and the amount of [SKF Core team members](((63c8573a-829d-451f-8dd6-6739a740c83c))), we roughly estimated our payroll to be ~$2.5m for Year 1.
+	- In November, Glenn, Riccardo, Randall, and various SKF team members had a meeting with Brian Behlendorf and David Wheeler to discuss what OSSF had in mind to move forward the relationship with SKF.
+		- Brian's main concern was for the sustainably of SKF long term.
+		- Brian was willing to fund SKF, but wanted like to see what Clyde says
+		- It was decided that Brian and David would talk to Clyde Seepersad from LF, as Brian thinks theirs a high level of potential interest to make SKF a LF product; also addressing sustainably concerns.
+		- Brian also thought it was easier pay 'us' (Glenn, Riccardo, and Randall Company) in cutting us a check, rather than employment at LF (as previously discussed).
+	- In very early December, Glenn, Riccardo, Randall, and various SKF team members had a meeting with Clyde Seepersad and Tim from LF.
+		- It was decided that LF would be a good fit for SKF.
+		- It would be simplest to simply have LF hire the SKF Core Team, becoming part of Clyde's LF team.
+			- Salaries and Start Dates were TBD on a forthcoming offer.
+			- Employment offers for the whole SKF Core team also would depend on a redundancy check of the SKF Core team's capabilities and those already on Clyde's current LF team.
+				- Profiles on the current SKF Core team were requested.
+					- Profiles were sent by Randall, later that same day, via email.
+	- In mid December, communication was established via email, between Glenn and Clyde, in reference to the forth mentioned 'forthcoming offer'.
+		- Clyde mentioned meeting Jan. 4 upon his return from vacation, for which he was leaving for Dec. 15 2022.
+- ## Outcomes
+	- [SKF becomes LF project]([[Executive Summary/LF/LF Project]])
+	- [LF/OSSF funds SKF]([[Executive Summary/LF/LF Funding]])
