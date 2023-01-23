@@ -1,10 +1,10 @@
-filters:: {"contents" false}
+filters:: {"executive summary/lf" false}
 
 - ## Objective(s)
 	- **Provide an educational ecosystem and platform for Security Engineers, Developers, and Researchers that can be useful at any point of a security journey.**
 		- Supported by OpenSSF
 			- David Wheeler (through OpenSSF) has contributed and maintains the Security Fundamentals course.
-			- We act as a centralized education hub for OpenSSF's Education SIG, as voted by the OpenSSF's Best Practices WG and outlined in Section 5 of the OpenSSF Mobilization plan.
+			- Act as a centralized education hub for OpenSSF's Education SIG, as voted by the OpenSSF's Best Practices WG and outlined in Section 5 of the OpenSSF Mobilization plan.
 		- Supported by OWASP
 			- OWASP has contributed and maintains the Application Security Verification Standard (ASVS) and Web Security Testing Guide (WSTG).
 				- SKF currently features a hands-on training lab that correlates to both ASVS and WSTG.
@@ -12,18 +12,20 @@ filters:: {"contents" false}
 	- To provide [SKF users tooling (and tooling recommendation, where applicable)]([[Tooling]]) that reinforces the SKF education; and is useful in real-world application.
 		- *Once this was the original primary focus of the SKF platform.*
 	- To provide [lines of support and community engagement](((63c8573a-9c00-4b4f-88c6-c2e68ef3d6d1))) for Security Engineers, Developers, and Researchers.
-	- Provide [accredited Certifications]([[Platform/Examination]]) to the Security Community, that carry legitimate value and will help build a respectable career profile; yet still remain affordable.
+	- Provide [accredited Certifications]([[Platform/Portions/Examination]]) to the Security Community, that carry legitimate value and will help build a respectable career profile; yet still remain affordable.
 - ## [Intended Audience]([[Executive Summary/User Personas]])
 - ## [Core Team]([[Executive Summary/SKF Core Team]])
 - ## Products
 	- ### [SKF Platform  (Web Application)]([[Platform]])
-		- [Education Platform]([[Platform/Education]])
-		- [Examination Platform]([[Platform/Examination]])
+		- [Architecture]([[Platform/Architecture]])
+		- Portions
+			- [Education]([[Platform/Portions/Education]])
+			- [Examination]([[Platform/Portions/Examination]])
 	- ### Security Knowledge Graph (Public API & Database)
 		- The Security Knowledge Graph is a neo4j Graph Database.
 		- #### Nodes
+			- [[Graph/Courses]]
 			- [[Graph/Concepts]]
-				- [[Graph/Courses]]
 			- [[Graph/Labs]]
 			- [[Graph/Lexicon]]
 	- ### [Tooling]([[Tooling]])

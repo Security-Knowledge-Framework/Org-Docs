@@ -1,0 +1,1 @@
+- The SKF Platform is divided into two portions. Each portions has their own specific objectives, features, and goals; and targets different segments within the [intended audience]([[Executive Summary/User Personas]]).

@@ -13,7 +13,7 @@ filters:: {"executive summary" false}
 		- Brian was willing to fund SKF, but wanted like to see what Clyde says
 		- It was decided that Brian and David would talk to Clyde Seepersad from LF, as Brian thinks theirs a high level of potential interest to make SKF a LF product; also addressing sustainably concerns.
 		- Brian also thought it was easier pay 'us' (Glenn, Riccardo, and Randall Company) in cutting us a check, rather than employment at LF (as previously discussed).
-	- In very early December, Glenn, Riccardo, Randall, and various SKF team members had a meeting with Clyde Seepersad and Tim from LF.
+	- In very early December, Glenn, Riccardo, Randall, and various SKF team members had a meeting with Clyde Seepersad and Tim Serewicz from LF.
 		- It was decided that LF would be a good fit for SKF.
 		- It would be simplest to simply have LF hire the SKF Core Team, becoming part of Clyde's LF team.
 			- Salaries and Start Dates were TBD on a forthcoming offer.
@@ -22,6 +22,16 @@ filters:: {"executive summary" false}
 					- Profiles were sent by Randall, later that same day, via email.
 	- In mid December, communication was established via email, between Glenn and Clyde, in reference to the forth mentioned 'forthcoming offer'.
 		- Clyde mentioned meeting Jan. 4 upon his return from vacation, for which he was leaving for Dec. 15 2022.
+	- On January 20th, 2023, Glenn and Randall had a meeting with Clyde Seepersad and Tim Serewicz from LF, in regards to aligning ideas and steps to move forward.
+		- Clyde apologized for delay caused by the holiday break and end-of-year activities.
+		- *Clyde presented an offer to hire Glenn, Riccardo, and Randall as full-time employees working with Tim in adding the SKF content the Linux Foundation Education Platform.*
+			- Part of the hired SKF team members responsibilities would include off-site visits to LF members.
+			- SKF team members not hired can still be hired as contractors.
+			- Randall mentioned it might not be a great fit for Glenn and Riccardo since they have already an employment arrangement that they might feel more comfortable in; Antony might be a better option, as he currently is responsible for much of the development work on the platform.
+		- *Randall asked for a few days to review the offer with the team and will get back to Clyde and Tim next week with the definitive answer.*
+		- Clyde also presented (as part of the offer), an upfront payment, for the release of the SKF Intellectual Property to Linux Foundation.
+			- Clyde will begin to work on the paperwork for this next week.
+		-
 - ## Outcomes
 	- [SKF becomes LF project]([[Executive Summary/LF/LF Project]])
 	- [LF/OSSF funds SKF]([[Executive Summary/LF/LF Funding]])
