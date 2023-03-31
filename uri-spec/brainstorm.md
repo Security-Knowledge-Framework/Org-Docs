@@ -1,16 +1,18 @@
-Hey :wave:, @Jonathan Leitschuh I was working on the proposals for unifying the URL specs. From the research I’ve done on the topic so far, we’d need a total of 2 RFC's to solve to problem and ensure it never occurs again.
+# Unified URI Spec. Brainstorm
 
-****Unified URI RFC** (The 1st RFC)**
+Hey :wave:, I was working on the proposals for unifying the URL specs. From the research I’ve done on the topic so far, we’d need a total of 2 RFC's to solve to problem and ensure it never occurs again.
+
+## **Unified URI RFC (RFC 1)**
 
 The 1st RFC (**The **Unified URI RFC****) will use the original [2005 URI RFC](https://www.rfc-editor.org/rfc/rfc3986) as it’s basis, then build on top of it the modern [WHATWG URL standard](https://github.com/whatwg/url). [Alwin Blok](https://github.com/alwinb) already created a [new URL Spec. proposal](https://alwinb.github.io/url-specification/) to try to accomplish this very goal, we’ll investigate what changes there are between both RFC’s and the new proposal by [Alwin](https://github.com/alwinb), and look to create a **Unified RFC from** that.
 
-Some ideas that @Randall, [Jonathan Neal](https://twitter.com/jon_neal), and I played with were separating URI’s and URL’s.
+Some ideas that [@Randall](https://github.com/ran-dall), [Jonathan Neal](https://twitter.com/jon_neal), and I played with were separating URI’s and URL’s.
 * URI’s represent any form a path locator can take, e.g. `C://windows/path/to/file`, `/root/mnt/this/goes/somewhere`, `file:///the/file/system/access`, or `https://google.com`. The key take away is that there is no limitations to the nature of the file path, so long as it functions as a path indicator. We’d encourage websites, apps and browsers to start using URI’s instead of URL’s as URL’s in this new spec. will be a very specific and limited form of URI’s.
 * URL’s will be URI’s but with a stricter set of rules, with most of those being inherited from the [WHATWG URL standard](https://github.com/whatwg/url), making sure to make changes when it conflicts with the original [2005 URI RFC](https://www.rfc-editor.org/rfc/rfc3986), and make additional changes based off of [Alwin Blok](https://github.com/alwinb)’s new [URL Spec. proposal](https://alwinb.github.io/url-specification/). We’d also look into other complaints about the current URL Spec. including those from the [cURL team](https://daniel.haxx.se/blog/2017/01/30/one-url-standard-please/). Ideally we’d also want to also look into current and future use cases and try to cover using URL’s as a state storage mechanism (one could argue you shouldn’t use URL’s to store state, but devs do, since it’s quick and easy, we should look into making recommendations for how devs should handle storing state in URL’s). 
 
 > The reason for making URI’s and URL’s different is because URL’s in the minds of devs represents both `./paths/like/this` and `https://a.path.like/this`, but the spec as it’s currently written really only works for URL’s, which means you run into issues in `Node.js` like environments where local and relative paths are supported, but to which the URL syntax does not support. 
 
-**Goals**:
+### **Goals**:
 * Backward compatible
 * Realistic (we’re not going to be able to change the entire web, our goal is to unify use cases)
 * As close to complete agreement on the spec as possible
@@ -21,10 +23,7 @@ Some ideas that @Randall, [Jonathan Neal](https://twitter.com/jon_neal), and I p
   * For example, (when a user users a language with the latin character set) recommending browsers and other applications, highlight characters that are not the basic latin characters and use a different font for those specific characters to make it clear that said URL might be leading users to the wrong site, etc… (More research necessary to ensure this solution is able to work for CLI tools, libraries and other applications)
 
 
-:thread: /1
-
-
-/2 **URI Versioning (RFC 2)**
+## **URI Versioning (RFC 2)**
 
 This RFC focuses on future-proofing the **Unified URI spec**. mentioned in the previous RFC, it focuses on the question "What happens if some usecase we never imagined appears and the current **Unified URI spec**. isn't enough?"
 
@@ -52,7 +51,7 @@ Potential options:
 * Use the DNS Resolver System 
 * Let each application choose one of the options specified
 
-**Goals:**
+### **Goals:**
 * Backward compatible
 * Realistic
 * As close to complete agreement on the spec as possible
@@ -62,6 +61,5 @@ Potential options:
   * We should make recommendations on how to handle scams, phishing, and more… since we’re being as backward compatible as possible it might leave some security holes, that might cause problems for users.
   * For example, (when a user users a language with the latin character set) recommending browsers and other applications, highlight characters that are not the basic latin characters and use a different font for those specific characters to make it clear that said URL might be leading users to the wrong site, etc… (More research necessary to ensure this solution is able to work for CLI tools, libraries and other applications)
 
-/2 - End
 
 > **Note**: All recommendations (security, and not) will be documented as Living Standards, allowing us to make changes as new security vulnerabilities appear
