@@ -29,7 +29,7 @@ This RFC focuses on future-proofing the **Unified URI spec**. mentioned in the p
 
 The ideal would be that the **Unified URI spec**. is enough but with AI, Quantum Computing and other future technologies on the horizon, we cannot predict the needs of the future, so we need to prepare a mechanism to version the URI standard supported by applications. The idea behind versioning is to support a what I'd like to call a `version:` brand, the brand will only represent versions that are greater than the version 0 which is the accepted **Unified URI spec**., in simpler terms, by default a URI won't need a `version:` brand, we'll just assume that by not having a `version:` brand the **Unified URI spec**. is what is meant. 
 
-> **Remember**: The **Unified URI spec**. is backward compatible, so we get to have our cake and have it too
+> **Remember**: The **Unified URI spec**. is backward compatible, so we get to have our cake and eat it too
 
 
 A couple question surrounding this RFC appear:
@@ -40,7 +40,7 @@ A couple question surrounding this RFC appear:
 * How would this version brand function across language styles? e.g. left-to-right vs right-to-left languages
   * **Ans**: It would probs be always the first set of characters read, to which it then switches to the URI after encountering the separator
 * What will be the separator?
-  * **Ans**: Currently I’m leaning toward : as it’s already recognizable and accepted as a separator for a URL schema and it’s domain
+  * **Ans**: Currently I’m leaning toward `:` as it’s already recognizable and accepted as a separator for a URL schema and it’s domain
 
 The real questions surrounding this RFC is what do we want applications to do if they do not support the specified version brand?
 
